@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Shinde</h1>
 <h3 align="center">A passionate full stack java developer from Pune,Maharashtra</h3>
 
-- 🔭 I’m currently working on **connector platform**
+- 🔭 I’m currently working on **developing low code no code platform**
 
 - 👨‍💻 All of my projects are available at [https://sanketshindeporfolio.netlify.app/](https://sanketshindeporfolio.netlify.app/)
 
